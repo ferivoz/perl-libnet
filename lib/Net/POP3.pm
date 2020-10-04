@@ -632,7 +632,7 @@ A new Net::POP3 object must be created with the I<new> method. Once
 this has been done, all POP3 commands are accessed via method calls
 on the object.
 
-The Net::POP3 class is a subclass of Net::Cmd and (depending on avaibility) of
+The Net::POP3 class is a subclass of Net::Cmd and (depending on availability) of
 IO::Socket::IP, IO::Socket::INET6 or IO::Socket::INET.
 
 

@@ -804,7 +804,7 @@ in RFC977 and RFC4642.
 With L<IO::Socket::SSL> installed it also provides support for implicit and
 explicit TLS encryption, i.e. NNTPS or NNTP+STARTTLS.
 
-The Net::NNTP class is a subclass of Net::Cmd and (depending on avaibility) of
+The Net::NNTP class is a subclass of Net::Cmd and (depending on availability) of
 IO::Socket::IP, IO::Socket::INET6 or IO::Socket::INET.
 
 =head1 CONSTRUCTOR

@@ -1453,7 +1453,7 @@ support for IPv6 as defined in RFC2428.
 And with L<IO::Socket::SSL> installed it provides support for implicit FTPS
 and explicit FTPS as defined in RFC4217.
 
-The Net::FTP class is a subclass of Net::Cmd and (depending on avaibility) of
+The Net::FTP class is a subclass of Net::Cmd and (depending on availability) of
 IO::Socket::IP, IO::Socket::INET6 or IO::Socket::INET.
 
 =head1 OVERVIEW

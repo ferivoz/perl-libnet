@@ -660,7 +660,7 @@ SMTP protocol described in RFC2821.
 With L<IO::Socket::SSL> installed it also provides support for implicit and
 explicit TLS encryption, i.e. SMTPS or SMTP+STARTTLS.
 
-The Net::SMTP class is a subclass of Net::Cmd and (depending on avaibility) of
+The Net::SMTP class is a subclass of Net::Cmd and (depending on availability) of
 IO::Socket::IP, IO::Socket::INET6 or IO::Socket::INET.
 
 =head1 EXAMPLES
